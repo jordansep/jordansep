@@ -2,7 +2,7 @@
 
 ## Perfil Profesional
 
-Estudiante de segundo año de la carrera de Analista Universitario de Sistemas Informáticos. Es proactivo, se adapta rápidamente a diferentes entornos y necesidades, y tiene un gran compromiso con los objetivos. Posee sólidos conocimientos en programación, en particular en .NET, y tiene la habilidad de trabajar en equipo.
+Estudiante de segundo año de la carrera de Analista Universitario de Sistemas Informáticos. Me considero proactivo, me adapta rápidamente a diferentes entornos y necesidades, y tengo un gran compromiso con los objetivos. Poseo sólidos conocimientos en programación con .NET.
 
 ---
 
@@ -22,7 +22,7 @@ Estudiante de segundo año de la carrera de Analista Universitario de Sistemas I
 ## Formación Académica
 
 - **Analista Universitario de Sistemas Informáticos:**  
-  Cursando el segundo año en la Escuela Superior de Comercio Manuel Belgrano.
+  Cursando el segundo año en la UNC (Escuela superior de comercio Manuel Belgrano).
 
 ---
 
