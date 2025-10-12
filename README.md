@@ -15,7 +15,7 @@ Estudiante de segundo año de la carrera de Analista Universitario de Sistemas I
   SQL y NoSQL.
 
 - **Herramientas:**  
-  Visual Studio, Git (básico) y Power BI.
+  Visual Studio, Git (básico), Docker, Power BI
 
 ---
 
