@@ -2,7 +2,7 @@
 
 ## Perfil Profesional
 
-Jordan Oscar Monier es un estudiante de segundo año de la carrera de Analista Universitario de Sistemas Informáticos. Es proactivo, se adapta rápidamente a diferentes entornos y necesidades, y tiene un gran compromiso con los objetivos. Posee sólidos conocimientos en programación, en particular en .NET, y tiene la habilidad de trabajar en equipo.
+Estudiante de segundo año de la carrera de Analista Universitario de Sistemas Informáticos. Es proactivo, se adapta rápidamente a diferentes entornos y necesidades, y tiene un gran compromiso con los objetivos. Posee sólidos conocimientos en programación, en particular en .NET, y tiene la habilidad de trabajar en equipo.
 
 ---
 
