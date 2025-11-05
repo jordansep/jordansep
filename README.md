@@ -22,7 +22,7 @@ Estudiante de segundo año de la carrera de Analista Universitario de Sistemas I
 ## Formación Académica
 
 - **Analista Universitario de Sistemas Informáticos:**  
-  Estudainte regular del segundo año en la UNC (Escuela superior de comercio Manuel Belgrano).
+  Estudiante regular del segundo año en la UNC (Escuela superior de comercio Manuel Belgrano).
 
 ---
 
